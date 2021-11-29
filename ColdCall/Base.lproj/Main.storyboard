@@ -27,7 +27,7 @@
                                 <rect key="frame" x="133" y="788" width="150" height="64"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="64" id="dJe-Js-i6I"/>
-                                    <constraint firstAttribute="width" constant="150" id="dlo-Uf-VJU"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="150" id="dlo-Uf-VJU"/>
                                 </constraints>
                                 <color key="tintColor" name="AccentColor"/>
                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
